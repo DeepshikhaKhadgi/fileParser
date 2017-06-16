@@ -1,0 +1,5 @@
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\PatientFileParser\PatientFileParser\bin\Debug\PatientFileParser.exe
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\PatientFileParser\PatientFileParser\bin\Debug\PatientFileParser.exe.config
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\PatientFileParser\PatientFileParser\obj\Debug\PatientFileParser.exe
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\PatientFileParser\PatientFileParser\obj\Debug\PatientFileParser.pdb
+c:\users\deepshikha khadgi\documents\visual studio 2012\Projects\PatientFileParser\PatientFileParser\bin\Debug\PatientFileParser.pdb
